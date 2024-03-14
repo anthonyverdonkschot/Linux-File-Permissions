@@ -171,7 +171,7 @@ For this task, I used the `chmod` command with the numeric method. The numeric m
 
 These numbers get added together with multiple permissions. For example, the value for having both read (4) and write (2) permissions would be 6 as (2 + 4 = 6).
 
-The following illustrates the `chmod` commands required to set the appropriate permissions according to the diagram:
+The following diagram illustrates the `chmod` commands required to set the appropriate permissions:
 
 <img src="/images/LFP_25.png" width="800" alt="Diagram of the permissions and chmod" />
 
